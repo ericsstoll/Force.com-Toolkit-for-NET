@@ -19,8 +19,8 @@
         </dependencies>
     </metadata>
     <files>
-        <file src="bin\Arke.Salesforce.Common.dll" target="lib\Arke.Salesforce.Common.dll" />
-        <file src="bin\Arke.Salesforce.Force.dll" target="lib\Arke.Salesforce.Force.dll" />
+        <file src="bin\Release\Arke.Salesforce.Common.dll" target="lib\Arke.Salesforce.Common.dll" />
+        <file src="bin\Release\Arke.Salesforce.Force.dll" target="lib\Arke.Salesforce.Force.dll" />
         <file src="tools\Install.ps1" target="tools\Install.ps1" />
     </files>
 </package>
