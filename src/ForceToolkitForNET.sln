@@ -28,6 +28,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. NuGet Packages", "2. NuGet Packages", "{B292CB4D-D8E3-4F5D-AD3C-84471BACA791}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arke.Salesforce.Chatter.NuGet", "Arke.Salesforce.Chatter.NuGet\Arke.Salesforce.Chatter.NuGet.csproj", "{CA7C1D78-0EC5-47D9-AA63-A72DBF82ACC6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5E9B8470-F771-4B73-98D8-53BF0AB69B30} = {5E9B8470-F771-4B73-98D8-53BF0AB69B30}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arke.Salesforce.Force.NuGet", "Arke.Salesforce.Force.NuGet\Arke.Salesforce.Force.NuGet.csproj", "{5E9B8470-F771-4B73-98D8-53BF0AB69B30}"
 EndProject
