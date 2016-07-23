@@ -5,10 +5,10 @@ using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 using NUnit.Framework;
-using Salesforce.Chatter.Models;
-using Salesforce.Common;
+using Arke.Salesforce.Chatter.Models;
+using Arke.Salesforce.Common;
 
-namespace Salesforce.Chatter.FunctionalTests
+namespace Arke.Salesforce.Chatter.FunctionalTests
 {
     [TestFixture]
     public class ChatterClientTests

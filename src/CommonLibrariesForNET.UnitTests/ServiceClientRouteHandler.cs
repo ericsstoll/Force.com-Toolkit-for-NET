@@ -4,7 +4,7 @@ using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Salesforce.Common.UnitTests
+namespace Arke.Salesforce.Common.UnitTests
 {
     internal class ServiceClientRouteHandler : DelegatingHandler
     {

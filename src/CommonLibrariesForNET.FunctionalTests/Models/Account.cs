@@ -1,4 +1,4 @@
-﻿namespace Salesforce.Common.FunctionalTests.Models
+﻿namespace Arke.Salesforce.Common.FunctionalTests.Models
 {
     public class Account
     {

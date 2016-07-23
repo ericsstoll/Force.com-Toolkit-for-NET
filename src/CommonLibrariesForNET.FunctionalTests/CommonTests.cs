@@ -5,10 +5,10 @@ using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 using NUnit.Framework;
-using Salesforce.Common.FunctionalTests.Models;
-using Salesforce.Common.Models;
+using Arke.Salesforce.Common.FunctionalTests.Models;
+using Arke.Salesforce.Common.Models;
 
-namespace Salesforce.Common.FunctionalTests
+namespace Arke.Salesforce.Common.FunctionalTests
 {
 	[TestFixture]
     public class CommonTests

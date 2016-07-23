@@ -1,4 +1,4 @@
-﻿namespace Salesforce.Common.Models
+﻿namespace Arke.Salesforce.Common.Models
 {
     public enum Error
     {

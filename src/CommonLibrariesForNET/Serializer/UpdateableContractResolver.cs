@@ -4,9 +4,9 @@ using System.Linq;
 using System.Reflection;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
-using Salesforce.Common.Attributes;
+using Arke.Salesforce.Common.Attributes;
 
-namespace Salesforce.Common.Serializer
+namespace Arke.Salesforce.Common.Serializer
 {
     public class UpdateableContractResolver : DefaultContractResolver
     {

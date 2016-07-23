@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Salesforce.Common.Models
+namespace Arke.Salesforce.Common.Models
 {
     public class ErrorResponse
     {

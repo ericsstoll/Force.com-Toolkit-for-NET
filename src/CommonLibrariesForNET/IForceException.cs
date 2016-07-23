@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace Salesforce.Common
+namespace Arke.Salesforce.Common
 {
     public interface IForceException
     {

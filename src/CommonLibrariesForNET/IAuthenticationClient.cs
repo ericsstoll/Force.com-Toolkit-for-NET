@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Salesforce.Common
+namespace Arke.Salesforce.Common
 {
     interface IAuthenticationClient
     {

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Arke.DeveloperForce.Force</id>
+        <version>1.3.0</version>
+        <title>Arke.DeveloperForce.Force</title>
+        <authors>ericsstoll,developerforce,wadewegner</authors>
+        <owners>ericsstoll,developerforce,wadewegner</owners>
+        <licenseUrl>https://raw.github.com/developerforce/Force.com-Toolkit-for-NET/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/developerforce/Force.com-Toolkit-for-NET/</projectUrl>
+        <iconUrl>https://raw.github.com/developerforce/Force.com-Toolkit-for-NET/master/scripts/assets/avatar.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>The Arke.DeveloperForce.Force NuGet provides a .NET library for interacting with Salesforce's Force.com REST APIs using Newtonsoft.Json 6.0.5.</description>
+        <releaseNotes />
+        <copyright>Copyright 2015</copyright>
+        <tags>salesforce forcedotcom force.com force rest api</tags>
+        <dependencies>
+            <dependency id="Newtonsoft.Json" version="6.0.5" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="bin\Arke.Salesforce.Common.dll" target="lib\Arke.Salesforce.Common.dll" />
+        <file src="bin\Arke.Salesforce.Force.dll" target="lib\Arke.Salesforce.Force.dll" />
+        <file src="tools\Install.ps1" target="tools\Install.ps1" />
+    </files>
+</package>

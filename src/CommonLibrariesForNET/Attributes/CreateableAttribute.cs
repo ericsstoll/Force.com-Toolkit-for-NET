@@ -1,6 +1,6 @@
 using System;
 
-namespace Salesforce.Common.Attributes
+namespace Arke.Salesforce.Common.Attributes
 {
     [AttributeUsage(AttributeTargets.Property | AttributeTargets.Field, AllowMultiple = false)]
     public class CreateableAttribute : Attribute

@@ -3,9 +3,9 @@ using System.Net;
 using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
-using Salesforce.Common.Models;
+using Arke.Salesforce.Common.Models;
 
-namespace Salesforce.Common.UnitTests
+namespace Arke.Salesforce.Common.UnitTests
 {
     internal class AuthenticationClientRouteHandler : DelegatingHandler
     {

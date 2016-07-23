@@ -1,7 +1,7 @@
 using System.Threading.Tasks;
-using Salesforce.Chatter.Models;
+using Arke.Salesforce.Chatter.Models;
 
-namespace Salesforce.Chatter
+namespace Arke.Salesforce.Chatter
 {
     public interface IChatterClient
     {

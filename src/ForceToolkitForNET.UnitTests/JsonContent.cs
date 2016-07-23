@@ -5,7 +5,7 @@ using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 
-namespace Salesforce.Force.UnitTests
+namespace Arke.Salesforce.Force.UnitTests
 {
     internal class JsonContent : HttpContent
     {

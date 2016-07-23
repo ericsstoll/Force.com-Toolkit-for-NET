@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Salesforce.Common.Models;
+using Arke.Salesforce.Common.Models;
 
-namespace Salesforce.Force
+namespace Arke.Salesforce.Force
 {
     public interface IForceClient
     {

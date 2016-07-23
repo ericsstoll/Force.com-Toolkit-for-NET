@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Salesforce.Common.Models
+namespace Arke.Salesforce.Common.Models
 {
     public class ErrorResponses : List<ErrorResponse> { }
 }

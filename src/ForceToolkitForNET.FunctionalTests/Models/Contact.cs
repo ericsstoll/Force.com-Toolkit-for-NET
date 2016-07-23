@@ -4,10 +4,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Salesforce.Common;
-using Salesforce.Common.Attributes;
+using Arke.Salesforce.Common;
+using Arke.Salesforce.Common.Attributes;
 
-namespace Salesforce.Force.FunctionalTests.Models
+namespace Arke.Salesforce.Force.FunctionalTests.Models
 {
     public class Contact
     {

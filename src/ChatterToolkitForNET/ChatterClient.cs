@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Salesforce.Chatter.Models;
-using Salesforce.Common;
+using Arke.Salesforce.Chatter.Models;
+using Arke.Salesforce.Common;
 
-namespace Salesforce.Chatter
+namespace Arke.Salesforce.Chatter
 {
     public class ChatterClient : IChatterClient, IDisposable
     {

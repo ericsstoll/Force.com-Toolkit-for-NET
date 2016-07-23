@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Salesforce.Chatter.Models
+namespace Arke.Salesforce.Chatter.Models
 {
     /// <summary>
     /// This class is similar to the FeedItemInput class, but only contains one of the optional properties.

@@ -1,7 +1,7 @@
 ﻿using System;
-using Salesforce.Common.Models;
+using Arke.Salesforce.Common.Models;
 
-namespace Salesforce.Common
+namespace Arke.Salesforce.Common
 {
     public class ForceException : Exception, IForceException
     {

@@ -3,9 +3,9 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using NUnit.Framework;
 using System.Net;
-using Salesforce.Force.UnitTests.Models;
+using Arke.Salesforce.Force.UnitTests.Models;
 
-namespace Salesforce.Force.UnitTests
+namespace Arke.Salesforce.Force.UnitTests
 {
     [TestFixture]
     public class ForceClientTests

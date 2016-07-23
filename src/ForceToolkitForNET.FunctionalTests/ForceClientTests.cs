@@ -7,12 +7,12 @@ using System.Threading;
 using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
 using NUnit.Framework;
-using Salesforce.Common;
-using Salesforce.Common.Models;
-using Salesforce.Force.FunctionalTests.Models;
+using Arke.Salesforce.Common;
+using Arke.Salesforce.Common.Models;
+using Arke.Salesforce.Force.FunctionalTests.Models;
 //using WadeWegner.Salesforce.SOAPHelpers;
 
-namespace Salesforce.Force.FunctionalTests
+namespace Arke.Salesforce.Force.FunctionalTests
 {
     [TestFixture]
     public class ForceClientTests

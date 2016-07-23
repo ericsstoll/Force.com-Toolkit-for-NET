@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Salesforce.Common.Models;
+using Arke.Salesforce.Common.Models;
 using Newtonsoft.Json;
 
-namespace Salesforce.Common
+namespace Arke.Salesforce.Common
 {
     public class AuthenticationClient : IAuthenticationClient, IDisposable
     {

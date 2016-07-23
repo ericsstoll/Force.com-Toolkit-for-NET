@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using Newtonsoft.Json;
 
-namespace Salesforce.Chatter.Models
+namespace Arke.Salesforce.Chatter.Models
 {
     public class UserPage
     {

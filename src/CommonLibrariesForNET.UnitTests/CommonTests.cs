@@ -3,7 +3,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using NUnit.Framework;
 
-namespace Salesforce.Common.UnitTests
+namespace Arke.Salesforce.Common.UnitTests
 {
     [TestFixture]
     public class CommonTests

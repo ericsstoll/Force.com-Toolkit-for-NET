@@ -5,10 +5,10 @@ using System.Net.Http;
 using System.Runtime.Serialization;
 using System.Threading.Tasks;
 using System.Reflection;
-using Salesforce.Common;
-using Salesforce.Common.Models;
+using Arke.Salesforce.Common;
+using Arke.Salesforce.Common.Models;
 
-namespace Salesforce.Force
+namespace Arke.Salesforce.Force
 {
     public class ForceClient : IForceClient, IDisposable
     {

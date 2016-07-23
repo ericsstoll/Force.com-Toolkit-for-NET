@@ -6,7 +6,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 
 
-namespace Salesforce.Common
+namespace Arke.Salesforce.Common
 {
     /// <summary>
     /// Extension methods for <see cref="HttpContent"/>.

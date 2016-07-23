@@ -1,7 +1,7 @@
 using Newtonsoft.Json;
 using System;
 
-namespace Salesforce.Chatter.Models
+namespace Arke.Salesforce.Chatter.Models
 {
     public class FeedItemInput
     {
