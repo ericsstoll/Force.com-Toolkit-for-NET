@@ -33,7 +33,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arke.Salesforce.Force.NuGet
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. Build", "0. Build", "{3234AB1D-B66C-462C-A0A6-4A37E378DB24}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\sdk\Module_Kernel\BuildUtilities\ApplyVersionToAssemblies.ps1 = ..\..\..\sdk\Module_Kernel\BuildUtilities\ApplyVersionToAssemblies.ps1
+		ApplyVersionToAssemblies.ps1 = ApplyVersionToAssemblies.ps1
 	EndProjectSection
 EndProject
 Global
